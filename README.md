@@ -1,0 +1,1 @@
+You should just be able to do `npm install` and then `node index.js`. Not sure though.
